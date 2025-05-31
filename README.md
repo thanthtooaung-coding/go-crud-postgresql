@@ -34,5 +34,5 @@ Follow these steps to set up and run the project locally.
 ### 1. Clone the Repository
 
 ```bash
-git clone [https://github.com/thanthtooaung-coding/go-crud-postgresql.git](https://github.com/thanthtooaung-coding/go-crud-postgresql.git)
+git clone https://github.com/thanthtooaung-coding/go-crud-postgresql.git
 cd go-crud-postgresql
